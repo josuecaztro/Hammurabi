@@ -1,6 +1,7 @@
 package hammurabi.docs;
 
 import java.io.IOException;
+import java.util.Random;
 import java.util.Scanner;
 
 // this seems to be an example of a solution that mimics the original BASIC code the author was writing from.
@@ -156,31 +157,4 @@ public class HAMURABI {
 		a.finished();
 	}
 
-	public int plagueDeaths(int i) {
-		return 0;
-	}
-
-	public int starvationDeaths(int i, int i1) {
-		return 0;
-	}
-
-	public boolean uprising(int i, int i1) {
-		return true;
-	}
-
-	public int immigrants(int i, int i1, int i2) {
-		return 0;
-	}
-
-	public int harvest(int i) {
-		return 0;
-	}
-
-	public int grainEatenByRats(int i) {
-		return 0;
-	}
-
-	public int newCostOfLand() {
-		return 0;
-	}
 }
